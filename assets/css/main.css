@@ -1785,6 +1785,7 @@ input, select, textarea {
 		outline: 0;
 	}
 
+
 		.image img {
 			display: block;
 			width: 100%;
@@ -3136,3 +3137,18 @@ input, select, textarea {
 					}
 
 	}
+.pfp {
+	height: 800px;
+	width: 740px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding-bottom: 50px;
+}
+
+.git-sorted {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 20px;
+}
