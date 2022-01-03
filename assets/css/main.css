@@ -3138,8 +3138,8 @@ input, select, textarea {
 
 	}
 .pfp {
-	height: 800px;
-	width: 740px;
+	height: 400px;
+	width: 340px;
 	display: flex;
 	align-items: center;
 	justify-content: center;
